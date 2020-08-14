@@ -14,6 +14,7 @@ export default function App () {
   )
 }
 
+
 /* // ORIGINAL
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
