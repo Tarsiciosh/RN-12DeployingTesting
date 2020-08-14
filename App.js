@@ -14,6 +14,8 @@ export default function App () {
   )
 }
 
+/* added with Vs code */
+
 /* // ORIGINAL
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
